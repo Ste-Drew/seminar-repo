@@ -5,7 +5,7 @@ Testing markdown: *ITALICS*
 
 Testing markdown: **BOLD**
 
-List creation: 
+List creations: 
 - one
 - two 
 - three
