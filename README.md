@@ -10,4 +10,5 @@ List creation:
 - two 
 - three
 
-Link creation: [new link text](day1.md)
+Link creation: [link text](day1.pdf)
+
