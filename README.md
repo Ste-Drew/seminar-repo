@@ -1,5 +1,5 @@
 # seminar-repo
-For Extra Credit and GitHub Intro
+For Extra Credit and GitHub Intro 1
 
 Testing markdown: *ITALICS*
 
